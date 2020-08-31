@@ -1,10 +1,10 @@
 # Android-Learning-Resources
 
-A repository containing link/resources to small, basic as well as specific android concepts.
-
 ## Pick up the best and save it for future reference.
 
 We struggle a lot learning small, basic and specific concepts. Here is my list of resources which may help you understand **Android** in a better way.
+Here is a repository containing link/resources to small, basic as well as specific android concepts.
+
 
 ## Java
 
@@ -183,6 +183,10 @@ We struggle a lot learning small, basic and specific concepts. Here is my list o
 * [Why @JvmOverloads in Kotlin](https://proandroiddev.com/misconception-about-kotlin-jvmoverloads-for-android-view-creation-cb88f432e1fe)
 
 * [Understanding Elvis Opearator pitfalls](https://medium.com/google-developer-experts/the-hidden-pitfalls-of-the-elvis-operator-da536ba68161)
+
+Will be adding more daily. Please contribute if you have more so that I can also learn. :-)
+
+Article link [here]()
 
 
   

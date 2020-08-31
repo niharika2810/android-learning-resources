@@ -2,6 +2,8 @@
 
 ## Pick up the best and save it for future reference.
 
+![learning](/images/learning.png)
+
 We struggle a lot learning small, basic and specific concepts. Here is my list of resources which may help you understand **Android** in a better way.
 Here is a repository containing link/resources to small, basic as well as specific android concepts.
 

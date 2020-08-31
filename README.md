@@ -1,4 +1,4 @@
-# Android-Learning-Resources
+# Android Learning Resources
 
 ## Pick up the best and save it for future reference.
 

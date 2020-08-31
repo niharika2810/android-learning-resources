@@ -192,9 +192,8 @@ Here is a repository containing link/resources to small, basic as well as specif
 
 * [Understanding Android AllowBackup](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b)
 
-Will be adding more daily. Please contribute if you have more so that I can also learn. :-)
+Will be adding more daily after sorting them out. Please contribute if you have more so that I can also learn. :-)
 
-Article link [here]()
 
 
 

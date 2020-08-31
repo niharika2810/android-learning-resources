@@ -194,8 +194,9 @@ Here is a repository containing link/resources to small, basic as well as specif
 
 Will be adding more daily after sorting them out. Please contribute if you have more so that I can also learn. :-)
 
+Article [link](https://thedroidlady.com/2020/08/31/android-learning-resources.html)
 
-
+Enjoy Reading!!
 
 
 

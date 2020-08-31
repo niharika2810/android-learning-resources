@@ -184,6 +184,10 @@ Here is a repository containing link/resources to small, basic as well as specif
 
 * [Understanding Elvis Opearator pitfalls](https://medium.com/google-developer-experts/the-hidden-pitfalls-of-the-elvis-operator-da536ba68161)
 
+* [Understanding Scoped Storage](https://medium.com/@nik.arora8059/android-scoped-storage-demystified-3024a062ba24)
+
+* [Understanding Android AllowBackup](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b)
+
 Will be adding more daily. Please contribute if you have more so that I can also learn. :-)
 
 Article link [here]()

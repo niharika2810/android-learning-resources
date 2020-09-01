@@ -192,8 +192,16 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Understanding Android AllowBackup](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b)
 
+* [Understanding JSON Web Token](https://medium.com/better-programming/what-exactly-is-a-json-web-token-678e8a8a5fe4)
 
-Will be adding more daily after sorting them out. Please contribute if you have more so that I can also learn. :-)
+* [ConstraintLayout](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
+
+* [Should we use largeHeap attribute in Android manifest](https://stackoverflow.com/questions/27396892/what-are-advantages-of-setting-largeheap-to-true)
+
+* [Coroutines vs RxJava](https://www.codemotion.com/magazine/dev-hub/mobile-dev/async-code-on-kotlin-coroutines-vs-rxjava/)
+
+
+Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)
 
 Article [link](https://thedroidlady.com/2020/08/31/android-learning-resources.html)
 

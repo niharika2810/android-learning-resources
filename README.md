@@ -168,7 +168,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 
   [Link 2](https://proandroiddev.com/android-custom-view-level-1-67ed1c3febe1)
 
-* [Kotlin Flow](https://proandroiddev.com/android-custom-view-level-1-67ed1c3febe1)
+* [Kotlin Flow](https://proandroiddev.com/kotlin-flow-on-android-quick-guide-76667e872166)
 
 * [The SOLID Principles for Android Developers](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84)
 
@@ -191,6 +191,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 * [Understanding Scoped Storage](https://medium.com/@nik.arora8059/android-scoped-storage-demystified-3024a062ba24)
 
 * [Understanding Android AllowBackup](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b)
+
 
 Will be adding more daily after sorting them out. Please contribute if you have more so that I can also learn. :-)
 

@@ -64,7 +64,7 @@ A repository containing link/resources to small, basic as well as specific Andro
   
   [Link 2](https://www.geeksforgeeks.org/implement-runnable-vs-extend-thread-in-java/)
   
-* [Sparse Array s Hashmap](https://stackoverflow.com/questions/25560629/sparsearray-vs-hashmap#:~:text=A%20sparse%20array%20in%20Java,is%20a%20key%2Cvalue%20pair)
+* [Sparse Array vs Hashmap](https://stackoverflow.com/questions/25560629/sparsearray-vs-hashmap#:~:text=A%20sparse%20array%20in%20Java,is%20a%20key%2Cvalue%20pair)
 
 * [Static vs Singleton](https://stackoverflow.com/questions/3532161/what-is-the-difference-between-a-singleton-pattern-and-a-static-class-in-java)  
 
@@ -214,7 +214,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [apply vs let vs run in Kotlin](https://medium.com/@fatihcoskun/kotlin-scoping-functions-apply-vs-with-let-also-run-816e4efb75f5)
 
-* [Improve recyclerview Performance](https://medium.com/@farshidabazari/improve-recyclerview-performance-ede5cec6c5bf)
+* [Improve recyclerView Performance](https://medium.com/@farshidabazari/improve-recyclerview-performance-ede5cec6c5bf)
 
 * [Understand Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 

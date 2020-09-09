@@ -218,6 +218,12 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Understand Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
+* [Memory management and Leaks](https://medium.com/swlh/an-introduction-to-memory-management-and-memory-leaks-on-android-3dbd66d8a943)
+
+* [Which context to use](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
+
+* [Steps to Build a quality app](https://medium.com/bcgdv-engineering/to-build-a-quality-app-you-must-consider-these-8-points-c1ea9befc791)
+
 
 Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)
 

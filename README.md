@@ -227,7 +227,6 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)
 
-Article [link](https://thedroidlady.com/2020/08/31/android-learning-resources.html)
 
 Enjoy Reading!!
 

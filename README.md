@@ -236,9 +236,9 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [ViewModelFactory](https://medium.com/koderlabs/viewmodel-with-viewmodelprovider-factory-the-creator-of-viewmodel-8fabfec1aa4f)
 
-* [Custom Chrome Tabs](https://developer.chrome.com/multidevice/android/customtabs , https://stackoverflow.com/questions/42689996/webview-vs-chrome-custom-tab)
+* [Custom Chrome Tabs](https://stackoverflow.com/questions/42689996/webview-vs-chrome-custom-tab)
 
-* [Progressive vs Native App]( https://rubygarage.org/blog/pwa-vs-native-app#:~:text=The%20main%20difference%20between%20a,it%20from%20an%20app%20store.&text=For%20example%2C%20Twitter%20offers%20a,apps%20for%20iOS%20and%20Android , https://www.mobiloud.com/blog/progressive-web-apps-vs-native-apps/)
+* [Progressive vs Native App](https://www.mobiloud.com/blog/progressive-web-apps-vs-native-apps/)
 
 * [SDK vs Non SDK interfaces](https://developer.android.com/distribute/best-practices/develop/restrictions-non-sdk-interfaces)
 

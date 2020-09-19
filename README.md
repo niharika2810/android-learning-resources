@@ -69,6 +69,8 @@ A repository containing link/resources to small, basic as well as specific Andro
 * [Static vs Singleton](https://stackoverflow.com/questions/3532161/what-is-the-difference-between-a-singleton-pattern-and-a-static-class-in-java)  
 
 * [Lambda vs Anonymous Classes](https://stackoverflow.com/questions/22637900/java8-lambdas-vs-anonymous-classes)
+
+* [Stack vs Heap Memory]( https://www.journaldev.com/4098/java-heap-space-vs-stack-memory#:~:text=Difference%20between%20Java%20Heap%20Space%20and%20Stack%20Memory,-Based%20on%20the&text=Heap%20memory%20is%20used%20by,contains%20the%20reference%20to%20it)
   
 ## Android
 
@@ -223,6 +225,32 @@ A repository containing link/resources to small, basic as well as specific Andro
 * [Which context to use](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
 
 * [Steps to Build a quality app](https://medium.com/bcgdv-engineering/to-build-a-quality-app-you-must-consider-these-8-points-c1ea9befc791)
+
+* [DDMS vs Android Profiler](https://www.softwaretestinghelp.com/android-memory-leak-testing/)
+
+* [Activity Process LifeCycle](https://developer.android.com/guide/components/activities/process-lifecycle)
+
+* [System vs Data Notification - FCM](https://stackoverflow.com/questions/37947541/what-is-the-difference-between-firebase-push-notifications-and-fcm-messages/37948441)
+
+* [Scheduler vs Dispatcher](https://afteracademy.com/blog/difference-between-scheduler-and-dispatcher#:~:text=The%20scheduler%20selects%20a%20process,from%20one%20state%20to%20another)
+
+* [ViewModelFactory](https://medium.com/koderlabs/viewmodel-with-viewmodelprovider-factory-the-creator-of-viewmodel-8fabfec1aa4f)
+
+* [Custom Chrome Tabs](https://developer.chrome.com/multidevice/android/customtabs , https://stackoverflow.com/questions/42689996/webview-vs-chrome-custom-tab)
+
+* [Progressive vs Native App]( https://rubygarage.org/blog/pwa-vs-native-app#:~:text=The%20main%20difference%20between%20a,it%20from%20an%20app%20store.&text=For%20example%2C%20Twitter%20offers%20a,apps%20for%20iOS%20and%20Android , https://www.mobiloud.com/blog/progressive-web-apps-vs-native-apps/)
+
+* [SDK vs Non SDK interfaces](https://developer.android.com/distribute/best-practices/develop/restrictions-non-sdk-interfaces)
+
+* [View Life Cycle](https://proandroiddev.com/android-custom-view-level-3-81e767c8cc75)
+
+* [How Vector drawable works](https://medium.com/@duhroach/how-vectordrawable-works-fed96e110e35#:~:text=For%20Android%2C%20the%20rasterization%20process,dimensions%20of%20the%20image%20itself)
+
+* [Dagger vs Koin](https://medium.com/mobile-app-development-publication/dagger-2-and-koin-comparison-4223dae9725d)
+
+* [Handler vs HandlerThread vs Looper](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
+
+* [Enum vs Sealed Classes](https://blog.kotlin-academy.com/enum-vs-sealed-class-which-one-to-choose-dc92ce7a4df5#:~:text=Enum%20classes%20represent%20a%20concrete,a%20concrete%20set%20of%20classes.&text=Enums%20have%20ordinal%20and%20we,can%20hold%20instance%2Dspecific%20data)
 
 
 Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)

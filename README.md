@@ -254,7 +254,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Understand Vector drawable path commands](https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e)
 
-* [Custom Views performance] https://android.jlelse.eu/prefmatters-using-custom-views-in-android-to-improve-performance-part-1-4dc9bdd75396
+* [Custom Views performance](https://android.jlelse.eu/prefmatters-using-custom-views-in-android-to-improve-performance-part-1-4dc9bdd75396)
 
 * [Know About Memory Leaks](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
 

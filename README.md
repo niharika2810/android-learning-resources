@@ -252,6 +252,19 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Enum vs Sealed Classes](https://blog.kotlin-academy.com/enum-vs-sealed-class-which-one-to-choose-dc92ce7a4df5#:~:text=Enum%20classes%20represent%20a%20concrete,a%20concrete%20set%20of%20classes.&text=Enums%20have%20ordinal%20and%20we,can%20hold%20instance%2Dspecific%20data)
 
+* [Understand Vector drawable path commands](https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e)
+
+* [Custom Views performance] https://android.jlelse.eu/prefmatters-using-custom-views-in-android-to-improve-performance-part-1-4dc9bdd75396
+
+* [Know About Memory Leaks](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
+
+* [FindViewById vs Synthetic Binding](https://medium.com/coding-blocks/goodbye-findviewbyid-say-hello-to-synthetic-binding-in-kotlin-d3727bd8438e)
+
+* [How Enums Impact performance](https://medium.com/@pavan.careers5208/android-how-enums-can-impact-the-performance-f787ef5903dd?source=email-e1fb03b9ea54-1599254514394-digest.reader------1-71------------------1ccd1b6a_1954_4c65_b478_d12b51bd2f63-27-005e4f96_3695_4f94_9d30_f03c8720b8f6----&sectionName=icymi)
+
+* [Parcelable Interface implementation]( https://medium.com/@royanimesh2211/implementing-the-parcelable-interface-in-android-b404819ca441?source=email-e1fb03b9ea54-1600207123318-digest.reader------1-72------------------d7fd371c_0158_472e_9bea_8a49d36691e7-28-----&sectionName=quickReads)
+
+
 
 Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)
 

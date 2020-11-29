@@ -264,6 +264,8 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Parcelable Interface implementation]( https://medium.com/@royanimesh2211/implementing-the-parcelable-interface-in-android-b404819ca441?source=email-e1fb03b9ea54-1600207123318-digest.reader------1-72------------------d7fd371c_0158_472e_9bea_8a49d36691e7-28-----&sectionName=quickReads)
 
+* [Android Vitals](https://dev.to/pyricau/android-vitals-what-time-is-it-2oih)
+
 
 
 Will be updating (once/twice a week) with more after sorting them out. Please contribute if you have more so that I can also learn. :-)

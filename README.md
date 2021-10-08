@@ -71,6 +71,12 @@ A repository containing link/resources to small, basic as well as specific Andro
 * [Lambda vs Anonymous Classes](https://stackoverflow.com/questions/22637900/java8-lambdas-vs-anonymous-classes)
 
 * [Stack vs Heap Memory]( https://www.journaldev.com/4098/java-heap-space-vs-stack-memory#:~:text=Difference%20between%20Java%20Heap%20Space%20and%20Stack%20Memory,-Based%20on%20the&text=Heap%20memory%20is%20used%20by,contains%20the%20reference%20to%20it)
+
+* [When to use Handler/thread?](https://stackoverflow.com/questions/31761351/difference-between-thread-and-handler)
+
+* [Handler Internals](https://medium.com/mindorks/mastering-android-handler-4f710296bdc6)
+
+* [Java to Kotlin](https://medium.com/google-developer-experts/from-java-to-kotlin-and-back-i-java-calling-kotlin-9abfc6496b04)
   
 ## Android
 
@@ -265,6 +271,85 @@ A repository containing link/resources to small, basic as well as specific Andro
 * [Parcelable Interface implementation]( https://medium.com/@royanimesh2211/implementing-the-parcelable-interface-in-android-b404819ca441?source=email-e1fb03b9ea54-1600207123318-digest.reader------1-72------------------d7fd371c_0158_472e_9bea_8a49d36691e7-28-----&sectionName=quickReads)
 
 * [Android Vitals](https://dev.to/pyricau/android-vitals-what-time-is-it-2oih)
+
+* [Rx with Retrofit](https://www.journaldev.com/20433/android-rxjava-retrofit) with [sample](https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/)
+
+* Understand Android DataBinding : https://www.raywenderlich.com/7711166-data-binding-in-android-getting-started
+
+* How recyclerView works internally? : https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4
+
+* Annotation Processor : https://aitorvs.medium.com/annotation-processing-in-android-studio-7042ccb83024
+
+* Design Pattern : https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android
+
+* Kotlin Questionnaire : https://imstudio.medium.com/kotlin-interview-questions-part-2-4f2f2b05063b
+
+* Coroutine Exception Handling CheatSheet : https://www.lukaslechner.com/coroutines-exception-handling-cheat-sheet/ 
+
+* StateFlow vs SharedFlow : https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5
+
+* Kotlin Flows : https://elizarov.medium.com/exceptions-in-kotlin-flows-b59643c940fb 
+
+* When to use Coroutines.unconfined? : https://stackoverflow.com/questions/55169711/when-should-i-use-dispatchers-unconfined-vs-emptycoroutinecontext#:~:text=or%20null%20objects.-,Dispatchers.,code%20from%20blocking%20world%20callbacks 
+
+* Lateinit vs Lazy : https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy 
+
+* Activity result API : https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd#:~:text=The%20new%20Activity%20Result%20API,other%20third%20party%20library%20anymore 
+
+* Lifecycle aware components : https://developer.android.com/topic/libraries/architecture/lifecycle 
+
+* ViewModel under the hood : https://blog.mindorks.com/android-viewmodels-under-the-hood 
+
+* SavedState Handle : https://developer.android.com/topic/libraries/architecture/viewmodel-savedstate
+
+* WorkManager under the hood : https://medium.com/android-news/androidx-workmanager-%EF%BE%89-%EF%BE%89-some-details-under-the-hood-a5ca1099c93
+
+* Shared Preference under the hood : https://proandroiddev.com/shared-preferences-101-aee26c13e4
+
+* Fragment vs Custom View : https://stackoverflow.com/questions/31236020/fragment-vs-custom-view-in-android 
+
+* RecyclerView ViewHolder : https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c 
+
+* Ktx Extensions : https://developer.android.com/kotlin/ktx
+
+* merge vs include in layout : https://alltechsolution.wordpress.com/2012/06/13/difference-between-merge-includeand-tag-in-android/
+
+* Okhttp interceptors under the hood : https://blog.codavel.com/how-to-create-an-http-interceptor-for-an-android-app-using-okhttp3
+
+* Retrofit under the hood : https://www.ekchang.com/breakdown/2016/06/11/retrofit-breakdown.html
+
+* Create your own livedata : https://medium.com/androidiots/how-i-made-my-own-livedata-1faf4a45520
+
+* Enum vs sealed class : https://blog.kotlin-academy.com/enum-vs-sealed-class-which-one-to-choose-dc92ce7a4df5
+
+* ViewModel Best Practices : https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54
+
+* Pros/cons of Multiple processes on Android : https://stackoverflow.com/questions/19744906/what-are-pros-and-cons-of-using-multiple-processes-within-android-application#:~:text=Cons%3A,and%20the%20perhaps%20application%20performance
+
+* How room works internally? : https://blog.mindorks.com/how-does-room-work-internally
+
+* How leak Canary Works? : https://square.github.io/leakcanary/fundamentals-how-leakcanary-works/
+
+* Mockito vs Mockk : https://stackshare.io/stackups/mockito-vs-mockk
+
+* Mock vs Stub vs spy in Unit Testing : https://www.javatpoint.com/mock-vs-stub-vs-spy#:~:text=Mocks%20are%20used%20to%20create,used%20in%20large%20test%20suites
+
+* Mockito vs PowerMock : https://stackoverflow.com/questions/6036450/powermock-mockito-vs-mockito-alone
+
+
+##Sharing some good resources from where one can learn:
+
+* Developer Guide: https://developer.android.com/guide
+* Codelabs: https://codelabs.developers.google.com/
+* Udacity: https://www.udacity.com
+* MindOrks: https://mindorks.com
+* Ray Wenderlich: https://www.raywenderlich.com/
+* CodingWithMitch: https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw
+* Awesome Learning Resources: https://github.com/androiddevnotes/awesome-android-learning-resources
+* Best Practices: https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9
+* Interview Questions: https://github.com/niharika2810/android-interview-questions
+* Refactoring : https://www.amazon.in/dp/8131734668/ref=cm_sw_r_wa_apa_fab_XPmEFb2A4W4TJ 
+* Clean Code : https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf
 
 
 

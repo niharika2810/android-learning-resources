@@ -337,7 +337,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 * Mockito vs PowerMock : https://stackoverflow.com/questions/6036450/powermock-mockito-vs-mockito-alone
 
 
-##Sharing some good resources from where one can learn:
+## Sharing some good resources from where one can learn:
 
 * Developer Guide: https://developer.android.com/guide
 * Codelabs: https://codelabs.developers.google.com/

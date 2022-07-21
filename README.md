@@ -350,6 +350,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 * Interview Questions: https://github.com/niharika2810/android-interview-questions
 * Refactoring : https://www.amazon.in/dp/8131734668/ref=cm_sw_r_wa_apa_fab_XPmEFb2A4W4TJ 
 * Clean Code : https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf
+* Java Tutorial - Scaler Topics : https://www.scaler.com/topics/java/
 
 
 

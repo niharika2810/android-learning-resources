@@ -342,6 +342,7 @@ A repository containing link/resources to small, basic as well as specific Andro
 * Developer Guide: https://developer.android.com/guide
 * Codelabs: https://codelabs.developers.google.com/
 * Udacity: https://www.udacity.com
+* Scaler Topics: https://www.scaler.com/topics/
 * MindOrks: https://mindorks.com
 * Ray Wenderlich: https://www.raywenderlich.com/
 * CodingWithMitch: https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw
